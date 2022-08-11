@@ -1,0 +1,16 @@
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task14\obj\Debug\net6.0\task14.GlobalUsings.g.cs
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task14\obj\Debug\net6.0\task14.csproj.AssemblyReference.cache
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task14\obj\Debug\net6.0\task14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task14\obj\Debug\net6.0\task14.AssemblyInfoInputs.cache
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task14\obj\Debug\net6.0\task14.AssemblyInfo.cs
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task14\obj\Debug\net6.0\task14.csproj.CoreCompileInputs.cache
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task14\bin\Debug\net6.0\task14.exe
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task14\bin\Debug\net6.0\task14.deps.json
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task14\bin\Debug\net6.0\task14.runtimeconfig.json
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task14\bin\Debug\net6.0\task14.dll
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task14\bin\Debug\net6.0\ref\task14.dll
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task14\bin\Debug\net6.0\task14.pdb
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task14\obj\Debug\net6.0\task14.dll
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task14\obj\Debug\net6.0\ref\task14.dll
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task14\obj\Debug\net6.0\task14.pdb
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task14\obj\Debug\net6.0\task14.genruntimeconfig.cache
