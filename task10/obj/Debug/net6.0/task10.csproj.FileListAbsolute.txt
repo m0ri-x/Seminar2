@@ -1,0 +1,16 @@
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task10\obj\Debug\net6.0\task10.GlobalUsings.g.cs
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task10\obj\Debug\net6.0\task10.csproj.AssemblyReference.cache
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task10\obj\Debug\net6.0\task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task10\obj\Debug\net6.0\task10.AssemblyInfoInputs.cache
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task10\obj\Debug\net6.0\task10.AssemblyInfo.cs
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task10\obj\Debug\net6.0\task10.csproj.CoreCompileInputs.cache
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task10\bin\Debug\net6.0\task10.exe
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task10\bin\Debug\net6.0\task10.deps.json
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task10\bin\Debug\net6.0\task10.runtimeconfig.json
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task10\bin\Debug\net6.0\task10.dll
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task10\bin\Debug\net6.0\ref\task10.dll
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task10\bin\Debug\net6.0\task10.pdb
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task10\obj\Debug\net6.0\task10.dll
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task10\obj\Debug\net6.0\ref\task10.dll
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task10\obj\Debug\net6.0\task10.pdb
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task10\obj\Debug\net6.0\task10.genruntimeconfig.cache
