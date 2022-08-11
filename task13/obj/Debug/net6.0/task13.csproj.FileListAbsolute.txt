@@ -4,3 +4,13 @@ C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками
 C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task13\obj\Debug\net6.0\task13.AssemblyInfoInputs.cache
 C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task13\obj\Debug\net6.0\task13.AssemblyInfo.cs
 C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task13\obj\Debug\net6.0\task13.csproj.CoreCompileInputs.cache
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task13\bin\Debug\net6.0\task13.exe
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task13\bin\Debug\net6.0\task13.deps.json
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task13\bin\Debug\net6.0\task13.runtimeconfig.json
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task13\bin\Debug\net6.0\task13.dll
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task13\bin\Debug\net6.0\ref\task13.dll
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task13\bin\Debug\net6.0\task13.pdb
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task13\obj\Debug\net6.0\task13.dll
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task13\obj\Debug\net6.0\ref\task13.dll
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task13\obj\Debug\net6.0\task13.pdb
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task13\obj\Debug\net6.0\task13.genruntimeconfig.cache

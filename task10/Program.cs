@@ -11,7 +11,7 @@ if (number >= 100 & number < 1000)
 {
     int result = (number / 10) % 10;
 
-    Console.WriteLine($"Вторая цифра числа {number} - {result}");
+    Console.WriteLine($"Вторая цифра числа {number} - {result1}");
 }
 
 else 
