@@ -1,0 +1,6 @@
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task13\obj\Debug\net6.0\task13.GlobalUsings.g.cs
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task13\obj\Debug\net6.0\task13.csproj.AssemblyReference.cache
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task13\obj\Debug\net6.0\task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task13\obj\Debug\net6.0\task13.AssemblyInfoInputs.cache
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task13\obj\Debug\net6.0\task13.AssemblyInfo.cs
+C:\Users\razor\Desktop\Учеба гикбрейнс\Знак. с языками програм. Семинары\Seminar_2\task13\obj\Debug\net6.0\task13.csproj.CoreCompileInputs.cache
